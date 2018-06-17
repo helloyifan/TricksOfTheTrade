@@ -1,0 +1,22 @@
+alias sshdev='/Users/jdai/HelpfulScripts/sshdev'
+alias scpdev='/Users/jdai/HelpfulScripts/scpdev'
+alias ssheight='/Users/jdai/HelpfulScripts/ssheight'
+alias sshsix='/Users/jdai/HelpfulScripts/sshsix'
+
+echo "          __,---'     \`--.__. "
+echo "       ,-'                ; \`. "
+echo "      ,'                  \`--.\`--. "
+echo "     ,'                       \`._ \`-."
+echo "     ;                     ;     \`-- ;"
+echo "   ,-'-_       _,-~~-.      ,--      \`."
+echo "   ;;   \`-,;    ,'~\`.__    ,;;;    ;  ;"
+echo "   ;;    ;,'  ,;;      \`,  ;;;     \`. ;"
+echo "   \`:   ,'    \`:;     __/  \`.;      ; ;"
+echo "    ;~~^.   \`.   \`---'~~    ;;      ; ;"
+echo "    \`,' \`.   \`.            .;;;     ;'"
+echo "    ,',^. \`.  \`._    __    \`:;     ,'"
+echo "    \`-' \`--'    ~\`--'~~\`--.  ~    ,'"
+echo "   /;\`-;_ ; ;. /. /   ; ~~\`-.     ;"
+echo "  ; ;  ; \`,;\`-;__;---;      \`----'"
+echo "           \`-- \`-'"
+~                                                       
